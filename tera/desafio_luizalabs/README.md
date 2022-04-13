@@ -1,6 +1,6 @@
  <h1>Contexto analítico </h1>
 
- ##Churn de Clientes
+ <h2>Churn de Clientes</h2>
 
 O desafio de prever se um cliente irá sair da Base de Clientes Ativos (também conhecido como churn) não é um problema exclusivo do varejo, sendo uma área de estudos constante da maioria das indústrias e empresas de serviços que dependem da retenção.
 
