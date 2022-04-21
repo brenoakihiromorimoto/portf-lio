@@ -1,5 +1,5 @@
 <h1>README</h1>
-<p align="center">
+<p align="left">
 <img src='https://img.shields.io/github/issues/brenoakihiromorimoto/portf-lio'/>
  </p>
 ![forks](https://img.shields.io/github/forks/brenoakihiromorimoto/portf-lio)
