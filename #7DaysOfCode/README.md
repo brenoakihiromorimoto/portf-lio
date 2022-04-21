@@ -1,10 +1,10 @@
 <h1>README</h1>
 <p align="left">
 <img src='https://img.shields.io/github/issues/brenoakihiromorimoto/portf-lio'/>
- </p>
-![forks](https://img.shields.io/github/forks/brenoakihiromorimoto/portf-lio)
-![stars](https://img.shields.io/github/stars/brenoakihiromorimoto/portf-lio)
-![stars](https://img.shields.io/github/license/brenoakihiromorimoto/portf-lio) 
+<img src='https://img.shields.io/github/forks/brenoakihiromorimoto/portf-lio'/>
+<img src='https://img.shields.io/github/stars/brenoakihiromorimoto/portf-lio'/>
+<img src= 'https://img.shields.io/github/license/brenoakihiromorimoto/portf-lio'/>
+</p>
 #7DaysOfCode
 Durante os 7 Days de Ciência de Dados você vai passar por todo ciclo de coleta, limpeza, tratamento, exploração e análise de dados. Nesses próximos 7 dias você vai entrar em uma base de dados do governo, trazer esses dados para o ambiente de análise utilizar SQL, Python, Pandas, Plotly entre outra ferramentas comuns no dia a dia de alguém que trabalha na área. No final, você vai ter uma visão ampla de diversos processos dentro da área e conseguirá entender como cada uma das etapas se encaixa no processo de análise de dados.
 
