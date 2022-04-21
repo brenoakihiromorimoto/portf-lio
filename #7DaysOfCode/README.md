@@ -32,3 +32,6 @@ Você já deve ter ouvido falar em testes A/B ou testes de hipótese e quando tr
 No final de uma semana intensa como essa vamos pegar tudo que fizemos para documentar e assim criar um portfólio e mostrar para todo mundo o que conseguimos fazer em apenas uma semana.
 
 Fonte: https://7daysofcode.io/matricula/data-science
+<p align='center'>
+ <img src='https://github.com/brenoakihiromorimoto/portf-lio/blob/main/%237DaysOfCode/imagens/imagem_2.gif'/>
+ </p>
