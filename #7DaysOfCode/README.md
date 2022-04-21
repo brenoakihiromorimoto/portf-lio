@@ -1,11 +1,10 @@
-<h1>README</h1>
+<h1>7DaysOfCode</h1>
 <p align="left">
 <img src='https://img.shields.io/github/issues/brenoakihiromorimoto/portf-lio'/>
 <img src='https://img.shields.io/github/forks/brenoakihiromorimoto/portf-lio'/>
 <img src='https://img.shields.io/github/stars/brenoakihiromorimoto/portf-lio'/>
 <img src= 'https://img.shields.io/github/license/brenoakihiromorimoto/portf-lio'/>
 </p>
-<h1>7DaysOfCode</h1>
 <p align='center'>
  <img src='https://github.com/brenoakihiromorimoto/portf-lio/blob/main/%237DaysOfCode/imagens/imagem_1.png'/>
  </p>
