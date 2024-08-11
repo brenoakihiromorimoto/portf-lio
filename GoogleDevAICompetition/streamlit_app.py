@@ -58,7 +58,7 @@ def generate_matrix_baseline(
     st.session_state['table'] = response_prep_02
 
 def generate_solutions_baseline():
-    genai.configure(api_key='AIzaSyDiQBWIfHTto65mCYu0EUxPhlBlfVxBp-I')
+    genai.configure(api_key=api_key)
 
     # Using `response_mime_type` with `response_schema` requires a Gemini 1.5 Pro model
     model = genai.GenerativeModel(
